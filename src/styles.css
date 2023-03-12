@@ -1,0 +1,8 @@
+h1 {
+    color: rgb(0, 163, 136);
+}
+
+.box {
+    display: flex;
+    align-items:center;
+}
